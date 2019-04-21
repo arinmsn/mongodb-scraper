@@ -1,3 +1,13 @@
+h1, h2 {
+    text-align: center;
+}
+
 body {
-    background: black;
+    background-image: url(../images/newspaper-1.jpg);
+}
+
+.jumbotron {
+    /* background-image: url(../images/newspaper-2.jpg); */
+    margin-top: 20px;
+    
 }

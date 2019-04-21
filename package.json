@@ -1,0 +1,31 @@
+{
+  "name": "mongo_scraper",
+  "version": "1.0.0",
+  "description": "Scrapes news articles and allows users to comment using Cheerio and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arinmsn/mongo-scraper.git"
+  },
+  "keywords": [
+    "Scraper",
+    "Cheerio",
+    "MongoDB"
+  ],
+  "author": "Arin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arinmsn/mongo-scraper#readme"
+  },
+  "homepage": "https://github.com/arinmsn/mongodb-scraper/blob/master/README.md",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.0"
+  }
+}
